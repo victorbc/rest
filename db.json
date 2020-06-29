@@ -1,0 +1,10 @@
+   {
+     "message": {
+       "attributes": {
+         "key": "value"
+       },
+       "data": "SGVsbG8gQ2xvdWQgUHViL1N1YiEgSGVyZSBpcyBteSBtZXNzYWdlIQ==",
+       "messageId": "136969346945"
+     },
+     "subscription": "projects/api-4675529453888759402-541615/subscriptions/teste"
+   }
